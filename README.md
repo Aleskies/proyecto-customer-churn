@@ -1,7 +1,21 @@
 # customer-churn
 
-modelo de clasificacion
-  
+Modelo de clasificación 
+
+Fuente: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Puede analizar todos los datos relevantes de los clientes y desarrollar programas enfocados de retención de clientes
+
+Contenido
+Cada fila representa a un cliente, cada columna contiene atributos de clientes descritos en la columna Metadatos.
+
+El conjunto de datos incluye información sobre:
+
+Los clientes que se fueron en el último mes – la columna se llama Churn
+Servicios que cada cliente ha registrado para – teléfono, múltiples líneas, Internet, seguridad en línea, copia de seguridad en línea, protección de dispositivos, soporte técnico y transmisión de TV y películas
+Información de la cuenta del cliente – cuánto tiempo han sido clientes, contratos, métodos de pago, facturación sin papel, cargos mensuales y cargos totales
+Información demográfica sobre clientes – género, rango de edad y si tienen socios y dependientes
+
 ## Installation guide
 
 Please read [installation.md](installation.md) for details on how to set up this project.

@@ -1,3 +1,6 @@
+# carpeta con los datos del modelo
 data/
-env/ 
-notebooks/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
